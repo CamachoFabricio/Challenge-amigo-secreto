@@ -14,12 +14,12 @@ Requisitos
 * Conexión a internet para descargar las dependencias si es necesario.
 
 Instalación
-* Clona el repositorio en tu máquina local:
-bash
+
+Clona el repositorio en tu máquina local:
+* bash
 Copiar
 git clone https://github.com/CamachoFabricio/Challenge-amigo-secreto.git
-
-Abre el archivo index.html en tu navegador.
+* Abre el archivo index.html en tu navegador.
 
 Uso
 * Agregar amigos: Escribe el nombre de un amigo en el campo de texto y haz clic en "Añadir".
