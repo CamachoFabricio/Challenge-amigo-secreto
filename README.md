@@ -15,14 +15,14 @@ Requisitos
 
 Instalación
 * Clona el repositorio en tu máquina local:
-
 bash
 Copiar
 git clone https://github.com/CamachoFabricio/Challenge-amigo-secreto.git
+
 Abre el archivo index.html en tu navegador.
 
 Uso
-Agregar amigos: Escribe el nombre de un amigo en el campo de texto y haz clic en "Añadir".
-Sortear: Cuando quieras realizar el sorteo, haz clic en el botón "Sortear Amigo". El sistema seleccionará un nombre de manera aleatoria y lo mostrará en la pantalla.
+* Agregar amigos: Escribe el nombre de un amigo en el campo de texto y haz clic en "Añadir".
+* Sortear: Cuando quieras realizar el sorteo, haz clic en el botón "Sortear Amigo". El sistema seleccionará un nombre de manera aleatoria y lo mostrará en la pantalla.
 
 ![image](https://github.com/user-attachments/assets/4144f5a4-b4e6-4b23-b578-10be2bd26e25)
