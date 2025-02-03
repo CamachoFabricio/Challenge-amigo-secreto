@@ -18,7 +18,7 @@ Instalación
 
 bash
 Copiar
-git clone https://github.com/tu_usuario/sorteo-amigos.git
+git clone https://github.com/CamachoFabricio/Challenge-amigo-secreto.git
 Abre el archivo index.html en tu navegador.
 
 Uso
